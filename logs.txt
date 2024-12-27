@@ -1,6 +1,0 @@
-[["v=DMARC1; p=none; sp=quarantine; rua=mailto:mailauth-reports@google.com"]] 
- ------------------------- 
-
-[["v=DMARC1; p=none; sp=quarantine; rua=mailto:mailauth-reports@google.com"]] 
- ------------------------- 
-
